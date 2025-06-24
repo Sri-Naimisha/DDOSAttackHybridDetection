@@ -1,5 +1,4 @@
-
-THIS IS OUR MINI PROJECT- DETECTION OF DENIAL OF SERVICE ATTACKS USING HYBRID ML ALGORITHMS 
+DETECTION OF DENIAL OF SERVICE ATTACKS USING HYBRID ML ALGORITHMS 
 
 WHAT IS DDOS ATTACK?
          A distributed denial-of-service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.
